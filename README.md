@@ -19,4 +19,4 @@ Simply copy ```RocketBZ_*.au3``` files to your development directory and use ```
 
 ## Documentation <a name = "documentation"></a>
 * [RocketBZ COM object](https://www3.rocketsoftware.com/bluezone/help/v71/en/bzsh/bzaa/source/bzaa_acon_bz-host-automation-object.htm)
-* [RocketBZ API menthods](https://www3.rocketsoftware.com/bluezone/help/v71/en/bzsh/bzaa/source/bzaa_aref_bz-object-methods.htm)
+* [RocketBZ API methods](https://www3.rocketsoftware.com/bluezone/help/v71/en/bzsh/bzaa/source/bzaa_aref_bz-object-methods.htm)
